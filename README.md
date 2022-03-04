@@ -12,4 +12,4 @@ cargo build --release
 cargo run
 ```
 
-The server will run in *http://localhost:8080*.
+The server will run at *http://127.0.0.1:7878*.
